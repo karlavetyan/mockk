@@ -1,0 +1,19 @@
+﻿/*****************************
+ All rights reserved.
+ AllFont.de (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Playfair Display Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Playfair Display Bold'), local('PlayfairDisplay-Bold'),
+        url(../font/playfair-display.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display Regular';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Playfair Display Regular'), local('PlayfairDisplay-Regular'),
+        url(../font/PlayfairDisplay-Regular.otf) format('opentype');
+}

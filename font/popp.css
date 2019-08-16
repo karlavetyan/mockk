@@ -1,0 +1,11 @@
+﻿/*****************************
+ All rights reserved.
+ AllFont.de (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Poppins Light';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Poppins Light'), local('Poppins-Light'),
+        url(../font/Poppins-Light.otf) format('opentype');
+}

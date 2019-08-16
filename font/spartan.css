@@ -1,0 +1,11 @@
+﻿/*****************************
+ All rights reserved.
+ AllFont.de (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'League Spartan Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('League Spartan Bold'), local('LeagueSpartan-Bold'),
+        url(../font/league-spartan.ttf) format('truetype');
+}
